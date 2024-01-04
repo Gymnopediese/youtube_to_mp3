@@ -1,0 +1,7 @@
+pytube
+moviepy
+eyed3
+mp3_tagger
+music_tag
+pydub
+lyricsgenius

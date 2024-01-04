@@ -1,0 +1,5 @@
+what you want to do?
+[0] Download a youtube song
+[1] Download a youtube playlist
+[2] Downlaod a bunch of youtube playlists
+[3] Exit
